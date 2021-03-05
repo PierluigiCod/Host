@@ -127,7 +127,7 @@
 		"active": true,
 		"blocking": false,
 		"message": "Gentile utente, Rai Play Radio terminerà il suo supporto per tutte le versioni precedenti alla 14.1.1 e non riceverà nuovi aggiornamenti. Alcune tecnologie necessarie al corretto funzionamento della app non sono compatibili con questo dispositivo e pertanto, nel prossimo futuro la app potrebbe diventare inutilizzabile.",
-		"minVersion": "15"
+		"minVersion": "13"
 	},
 	"androidCheckForOsSupport": { 
 		"active": true,
