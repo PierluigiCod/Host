@@ -46,7 +46,7 @@
               </ClickThrough>
             </VideoClicks>
           </Linear>
-          <UniversalAdId idRegistry="Ad-ID">AAAAAA1234567A</UniversalAdId>
+          <UniversalAdId idRegistry="Ad-ID">AAAAAA1234567</UniversalAdId>
           <UniversalAdId idRegistry="FooId">9999</UniversalAdId>
           <UniversalAdId idRegistry="BarId">ADSe9999</UniversalAdId>
         </Creative>
