@@ -75,7 +75,7 @@
 	},
 	"iOSCheckForUpdate": {
 		"active": true,
-		"force_update": true,
+		"force_update": false,
 		"message": "Una nuova versione di Raiplay e' disponibile. Ti consigliamo di aggiornare l'app per una migliore esperienza utente.",
 		"store_url": "https://itunes.apple.com/it/app/raiplay/id501323740?mt=8",
 		"target_version": "5.5.0"
