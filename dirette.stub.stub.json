@@ -1,0 +1,41 @@
+{
+    "matches": [
+        {
+            "date": "11\/06",
+            "time": "21:00",
+            "match_id": "61764",
+            "city": "Roma",
+            "duration": 90,
+            "current_time": 0,
+            "match_section": "Primo tempo",
+            "competitors": [
+                {
+                    "team_id": 5023,
+                    "team_slug": "TUR",
+                    "team_flag": "turchianaz.png",
+                    "team_name": "TURCHIA",
+                    "result": 0,
+                    "ball_possession": 0,
+                    "shots_on_goal": 0,
+                    "offside": 0,
+                    "goal_chances": 0,
+                    "steals": 0,
+                    "admonitions": 0
+                },
+                {
+                    "team_id": 5001,
+                    "team_slug": "ITA",
+                    "team_flag": "italia.png",
+                    "team_name": "ITALIA",
+                    "result": 0,
+                    "ball_possession": 0,
+                    "shots_on_goal": 0,
+                    "offside": 0,
+                    "goal_chances": 0,
+                    "steals": 0,
+                    "admonitions": 0
+                }
+            ]
+        }
+    ]
+}
