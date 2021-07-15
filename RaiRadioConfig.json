@@ -114,7 +114,7 @@
 "force_update": true,
 "message": "Per continuare ad utilizzare l'App è necessario un aggiornamento",
 "store_url": "https://itunes.apple.com/it/app/raiplay-radio/id360927284?mt=8",
-"target_version": "406"
+"target_version": "500"
 },
 "androidCheckForUpdate": {
 "active": true,
